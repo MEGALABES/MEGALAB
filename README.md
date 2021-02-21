@@ -4,7 +4,6 @@
 <head>
   <meta name="google-site-verification" content="KWRCXksLrox9uwq400luXx62LlitTyskMKid2NvnAag" />
   <meta charset="utf-8">
-  <title>HTML</title>
   <h1 style="font-size:100px"> MEGALAB </h1>
   <meta name="viewport" content="width=device-width, initial-scale=5.0">
   <link rel="stylesheet" href="estilo.css">
