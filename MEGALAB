@@ -1,5 +1,3 @@
-# megalab-cov
-<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta name="google-site-verification" content="KWRCXksLrox9uwq400luXx62LlitTyskMKid2NvnAag" />
